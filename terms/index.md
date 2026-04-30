@@ -37,9 +37,9 @@ The App is not a medical device and is not intended for diagnosis, treatment, or
 
 ## 3. 利用資格 / Eligibility
 
-本アプリは、年齢・居住地を問わず利用できます。ただし、お子様が利用される場合は保護者の監督のもとでご利用ください。
+本アプリは、主として成人の利用を想定しています。未成年者が利用する場合は、保護者の同意および監督のもとでご利用ください。
 
-The App may be used regardless of age or location. If the App is used by a minor, it should be used under parental supervision.
+The App is primarily intended for use by adults. If a minor uses the App, it should be used with the consent and supervision of a parent or legal guardian.
 
 ---
 
@@ -88,12 +88,12 @@ For information on how we collect and use data, please refer to our [Privacy Pol
 ## 8. 免責事項 / Disclaimer of Warranties
 
 - 本アプリは医療機器ではなく、診断・治療を目的としません。記録の解釈および医学的判断は必ず医療従事者にご相談ください。
-- 当方は、本アプリの利用または利用不能に起因して生じた損害（端末故障・データ消失・診療への影響等を含む）について、一切の責任を負いません。
+- 当方は、法令上認められる範囲において、本アプリの利用または利用不能に起因して生じた損害について責任を負いません。ただし、当方の故意または重大な過失による場合はこの限りではありません。
 - 端末の故障・紛失・初期化等により記録データが失われる可能性があります。重要な記録は印刷または写真保存等でバックアップしてください。
 - 本アプリはインターネット環境や端末の状態により、一部機能が利用できない場合があります。
 
 - The App is not a medical device and is not intended for diagnosis or treatment. Please consult a healthcare professional for any medical interpretation or decision.
-- We are not liable for any damages arising from the use or inability to use the App, including but not limited to device failure, data loss, or impact on medical care.
+- To the extent permitted by applicable law, we are not liable for any damages arising from the use of, or inability to use, the App. However, this does not apply in cases of our willful misconduct or gross negligence.
 - Data stored on your device may be lost due to device failure, loss, or factory reset. Please back up important records by printing or saving as photos.
 - Some features may be unavailable depending on your internet connection or device condition.
 
